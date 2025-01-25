@@ -8,3 +8,5 @@ This repository is built step by step in the tutorial.
 aca estamos haciendo los cambios para el commit
 
 otro cambio mas
+
+el readme
